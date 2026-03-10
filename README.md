@@ -11,7 +11,6 @@ Socials  <p align="left"> <a href="https://www.github.com/sebas-the-artist" targ
 <!--
 **sebas-the-artist/sebas-the-artist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
