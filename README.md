@@ -1,7 +1,7 @@
 Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I’m a 21‑year‑old front‑end developer focused on building clean, reliable interfaces with modern web tools. I’m ambitious, creative, and consistently push myself to learn new technologies and improve my craft. I recently completed an intensive coding boot camp, where I gained hands‑on experience delivering production‑ready React and UI projects.  
 
 * 🌍  I'm based in Florida
-* ✉️  You can contact me at [manijustworkhere@gmail.com](mailto:manijustworkhere@gmail.com)
+* 📫  You can contact me at [manijustworkhere@gmail.com](mailto:manijustworkhere@gmail.com)
 * 🫀  I'm fascinated by anything to do with AI
 * 🧎‍♂️  Will do anything short of sexual favors to do what im passionate about
 * 👨🏽‍🦳  I'm stuck in the old ways, i can't bring myself to "vibe code"
